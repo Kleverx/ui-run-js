@@ -1,0 +1,18 @@
+{
+  "assets": [],
+
+  "build": {
+    "build_id": "KleverX",
+    "build_number": 123,
+    "build_time": 20220330
+  },
+  
+  "useFeatures": [],
+  "icon": "ktgt.jpg",
+  "main": "UI-main.js",
+  "name": "qgAutoStudy",
+  "packageName": "com.qgAutoStudy",
+  "scripts": {},
+  "versionCode": 1,
+  "versionName": "3.30.2022"
+}
